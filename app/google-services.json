@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181863005132",
+    "project_id": "stitchingapp",
+    "storage_bucket": "stitchingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181863005132:android:4ea0e40453dc511436bb69",
+        "android_client_info": {
+          "package_name": "com.example.stitchingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDP94_3UZ1rSqyoUesBDH4UN6c3r3dfSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
